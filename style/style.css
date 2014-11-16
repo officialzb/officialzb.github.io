@@ -1,0 +1,50 @@
+h1 {
+	color:white;
+	font-size: 100px;
+}
+h2 {
+	color: rgb(232,232,232);
+	font-size: 100px;
+}
+h3 {
+	color:white;
+	font-size: 40px;
+}
+
+body{
+	/*background-color: rgb(215, 245, 233);*/
+	background-image: url("../images/owl.jpg");
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+p {
+	color:white;
+	font-size: 30px;
+	text-align: center;
+}
+
+div#heading_box{
+	border-width: 0px;
+	border-style: solid;
+	text-align: center;
+	color: gray;
+}
+
+div{
+	border-width: 0px;
+	border-style: solid;
+	text-align: center;
+}
+
+.subheading_box{
+	border-width: 0px;
+	border-style: solid;
+	text-align: center
+}
+.with_buttoncolor{
+	background-color: rgba(245, 191, 240, 0.4) !important;
+
+}
+.centre{
+	text-align: center;
+}
